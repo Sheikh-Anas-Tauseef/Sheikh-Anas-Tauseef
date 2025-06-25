@@ -39,7 +39,7 @@ I am proficient in using tools like **Power BI, Tableau, and Excel** to create i
 
 I am also an active **Kaggle contributor**, where I analyze datasets, build predictive models, and share insights with the global data science community. Engaging in Kaggle competitions has sharpened my problem-solving skills and deepened my understanding of real-world data challenges.  
 
-Beyond technical expertise, I am passionate about **community building and knowledge sharing**. I had the opportunity to volunteer in organizing **AWS Community Day Karachi** for the first time in the city. This experience allowed me to collaborate with industry experts, gain valuable insights into cloud and data technologies, and enhance my leadership and event management skills.  
+Beyond technical expertise, I am passionate about **community building and knowledge sharing**. I had the opportunity to volunteer in organizing **AWS Community Day Karachi** for the first time in the city. This experience allowed me to collaborate with industry experts, gain valuable insights into cloud and data technologies, and enhance my leadership and event mangement skills.  
 
 I am committed to continuous learning and professional growth, staying updated with the latest trends in data science and analytics. My goal is to leverage data-driven insights to solve complex problems, drive innovation, and contribute meaningfully to the tech community.  
 
