@@ -6,7 +6,7 @@
  
 ### About Me,
 
- My name is <b>Muhammad Anas</b>. A Data Analyst with a passion for transforming raw data into actionable insights. I leverage my expertise in data analysis, machine learning, and statistical modeling to optimize processes, uncover patterns, and drive data-driven decision-making.
+ My name is <b>Muhammad Anas</b>. A Data Analyst with a passion for transforming raw data into actionable insights. I leverage my expertise in data analysis, machine learning, and statistical modeling to optimize processes, uncover patterns, and drive data-driven decision-making
         
  
  <h3 align="center">  Data Analyst | Machine Learning Enthusiast | Problem Solver </h3>
